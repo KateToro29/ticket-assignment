@@ -1,0 +1,18 @@
+{
+  "tickets": [
+    {
+      "id": "e8eb",
+      "title": "lololo",
+      "priority": "3",
+      "description": "lalalaloefnj",
+      "resolved": false
+    },
+    {
+      "id": "69ea",
+      "title": "lavanderia",
+      "priority": "2",
+      "description": "lavar toda la ropa de la seman",
+      "resolved": true
+    }
+  ]
+}

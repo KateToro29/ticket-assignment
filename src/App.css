@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  
+}
+.ContainerForm{
+  background-color: white;
+  border-color: rgb(240, 239, 239);
+  border-style: solid;
+  border-radius: 8px;
+  color:black;
+  width: 500px;
+  display: block;
+}
+
+.ContainerForm > h1 {
+  margin: 5% 10%;
+}
+
